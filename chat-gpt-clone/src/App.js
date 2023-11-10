@@ -7,7 +7,7 @@ const App = () => {
       <section className="side-bar">
         <button> + New Chat</button>
         <ul className="history">
-
+          <li>Buuh</li>
         </ul>
         <nav>
           <p>Made by Alexander</p>
