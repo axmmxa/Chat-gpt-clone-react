@@ -28,7 +28,7 @@ const App = () => {
         <div className="bottom-section">
             <div className="input-container">
               <input></input>
-              <div id="submit">Submit</div>
+              <div id="submit">send</div>
             </div>
             <p className="Info">
                 Lorem Oasfasfasfasfasf

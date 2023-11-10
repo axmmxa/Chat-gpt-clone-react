@@ -96,3 +96,9 @@ input:focus {
   outline: none;
 }
 
+#submit {
+  position: absolute;
+  bottom: 10px;
+  right: 0;
+  cursor: pointer;
+}
