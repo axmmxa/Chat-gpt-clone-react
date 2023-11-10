@@ -2,8 +2,21 @@
 
 const App = () => {
   return (
-    <div>
-      
+    <div className="app">
+
+      <section className="side-bar">
+        <button> + New Chat</button>
+        <ul className="history">
+
+        </ul>
+        <nav>
+          <p>Made by Alexander</p>
+        </nav>
+      </section>
+
+      <section className="main">
+
+      </section>
     </div>
   )
 }
